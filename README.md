@@ -1,7 +1,6 @@
 # Cyber Attacks Repository
-
 Welcome to the Cyber Attacks Repository! This repository is dedicated to legal programming challenges focused on cyber attacks. Each folder in this repository represents a different attack and contains scripts and a corresponding README file.
-
+<img src="https://img.freepik.com/free-vector/data-security-technology-background-vector-blue-tone_53876-112201.jpg?w=1380&t=st=1685547561~exp=1685548161~hmac=ebfed2ae87dc1ee8bb7642238b4ebd220430aac022e7f7ef5ec1045b3a7f66da" width="40%" align="right">
 ## Repository Structure
 
 The repository is organized as follows:
